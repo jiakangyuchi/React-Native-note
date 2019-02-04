@@ -4,3 +4,5 @@ flexDirection <br />
 flexWrap <br />
 justifyContent <br />
 alignItems <br />
+alignSelf <br />
+flex <br />
